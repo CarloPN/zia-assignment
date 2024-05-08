@@ -11,4 +11,4 @@ In order to run the project:
 2. When opening the page for the first time, hit another refresh.
 
 This project is still a work-in-progress and may need some more time to be completed.
-Project has been iniated May 7th, 2024 (PH time)
+Project has been initiated May 7th, 2024 (PH time)
